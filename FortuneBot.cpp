@@ -14,7 +14,6 @@ int main()
 
     string first_name;
     int age;
-    string ask = "started";
     bool fortune_bot;
 
     Fortune_bot_theme();
